@@ -4,9 +4,7 @@ import buildOpenCrudProvider from 'ra-data-opencrud';
 import { Admin, Resource } from 'react-admin';
 // import { Admin, Resource, Delete } from 'react-admin';
 
-// import { PostCreate, PostEdit, PostList } from './posts';
-import { PostEdit, PostList } from './posts';
-const PostCreate =  null;
+import { PostCreate, PostEdit, PostList } from './posts';
 
 const Delete =  null;
 
