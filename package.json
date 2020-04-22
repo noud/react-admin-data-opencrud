@@ -6,11 +6,11 @@
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
     "ra-data-opencrud": "^0.0.7",
-    "react": "^16.10.1",
+    "react": "^16.13.0",
     "react-admin": "^2.9.6",
-    "react-apollo": "^3.1.2",
-    "react-dom": "^16.10.1",
-    "react-scripts": "3.1.2"
+    "react-apollo": "^3.1.5",
+    "react-dom": "^16.13.0",
+    "react-scripts": "3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
