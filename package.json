@@ -7,7 +7,7 @@
     "graphql-tag": "^2.10.1",
     "ra-data-opencrud": "^0.0.7",
     "react": "^16.10.1",
-    "react-admin": "^2.9.6",
+    "react-admin": "^3.19.12",
     "react-apollo": "^3.1.2",
     "react-dom": "^16.10.1",
     "react-scripts": "3.1.2"
